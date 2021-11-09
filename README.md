@@ -6,3 +6,8 @@ ABAP Version: 740 or higher
 
 ## Features
   * Parse all kinds of reply messages
+
+## Installation
+  * install via [abapGit](https://abapgit.org) *(make sure you are using the latest version)* using the online or offline option
+  
+## How to use

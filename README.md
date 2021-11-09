@@ -11,3 +11,4 @@ ABAP Version: 740 or higher
   * install via [abapGit](https://abapgit.org) *(make sure you are using the latest version)* using the online or offline option
   
 ## How to use
+  [SAP Blog Post](https://blogs.sap.com/?p=1436012)
